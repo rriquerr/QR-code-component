@@ -31,10 +31,11 @@ main {
 .h1 {
   font-family: 'Outfit', sans-serif;
   text-align: center;
-  font-size: 15px;
+  font-size: 22px;
   font-weight: 700;
+  line-height: 30px;
   margin: 15px 10px;
-  padding: 0 20px 0 20px;
+  padding: 10px 20px 0 20px;
 }
 
 .span {
@@ -42,6 +43,7 @@ main {
   text-align: center;
   font-size: 15px;
   font-weight: 400;
+  line-height: 18px;
   margin: 15px 10px;
   padding: 0 20px 0 20px;
   color: hsl(220, 15%, 55%);
